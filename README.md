@@ -9,9 +9,9 @@ NodeJS, Express, Webpack, Babel.
 
 # Run
 
-npm run start
+>npm run start
 
 # Production run
 
-npm run build
-npm run prodserve
+>npm run build
+>npm run prodserve
